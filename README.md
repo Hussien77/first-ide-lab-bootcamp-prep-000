@@ -138,7 +138,7 @@
 
   <code>ls</code> stands for list and it will list all the files in the directory, similar to the file tree. After you press enter you will see output from the terminal responding to the command you typed.
 
-  Try another one, from your terminal, type <code>pwd</code>, which stands for print working directory, which is the current directory the terminal is in.
+  Try another one, from your t
   
   <br>
 
